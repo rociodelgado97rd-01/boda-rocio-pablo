@@ -292,6 +292,8 @@ petal
 const duration =
 8000 + Math.random()*5000;
 
+petal.animate([
+
 {
 transform:
 "translateY(0px) rotate(0deg)"
